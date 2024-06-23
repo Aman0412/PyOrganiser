@@ -7,7 +7,5 @@ To run this on your machine you will have to change or create the directories of
 For example: in the code I have the script make the files go to a place in the downloads section (\Downloads\PyOrganiser) and within that folder I have several other folders such as - Picuture Files, Video Files and e.c.t
 
 
-# Further Ideas
-For even further functionality you could incorporate a while loop on line 19 to have it so that the script will continuously scan for the files and move them to their respective folders.
 
- 
+
